@@ -1,1 +1,1 @@
-These codes were fixed from the original pummeler package (https://github.com/djsutherland/pummeler/tree/master). For the regional results for 2020 you need to change the reader file with the one provided and then run 'pummel sort --version 2020-2 --voters-only -z csv_pus.zip SORT_DIR'
+These codes were fixed from the original pummeler package (https://github.com/djsutherland/pummeler/tree/master). For the regional results for 2020 you need to change the reader file with the ones provided and then run 'pummel sort --version 2020-2 --voters-only -z csv_pus.zip SORT_DIR'
